@@ -1,0 +1,235 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "TX1S0QypV7mF3H7W6GsfLyDY3C0=",
+			"path": "github.com/aead/chacha20",
+			"revision": "7e1038a97ad08a9a16cb88ed7a6778b366ba4d99",
+			"revisionTime": "2016-10-08T14:58:49Z"
+		},
+		{
+			"checksumSHA1": "PPvD5rtPTY6t6hBCNCbvEL62G40=",
+			"path": "github.com/aead/chacha20/chacha",
+			"revision": "7e1038a97ad08a9a16cb88ed7a6778b366ba4d99",
+			"revisionTime": "2016-10-08T14:58:49Z"
+		},
+		{
+			"checksumSHA1": "EZdjBOz3DgLk471W0+mE40BTh40=",
+			"path": "github.com/aead/poly1305",
+			"revision": "687f9e582fd1824d41598e72b5296d51ca9ae465",
+			"revisionTime": "2017-01-21T12:19:41Z"
+		},
+		{
+			"checksumSHA1": "LLVyR2dAgkihu0+HdZF+JK0gMMs=",
+			"path": "github.com/agl/ed25519",
+			"revision": "5312a61534124124185d41f09206b9fef1d88403",
+			"revisionTime": "2017-01-16T20:05:12Z"
+		},
+		{
+			"checksumSHA1": "30PBqj9BW03KCVqASvLg3bR+xYc=",
+			"path": "github.com/agl/ed25519/edwards25519",
+			"revision": "5312a61534124124185d41f09206b9fef1d88403",
+			"revisionTime": "2017-01-16T20:05:12Z"
+		},
+		{
+			"checksumSHA1": "K9nmEO9aPaqjK+bCDou1FCwm00Y=",
+			"path": "github.com/brutella/hc",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "USvk+bLQZYQ4h3kHSZLaMNFCBa8=",
+			"path": "github.com/brutella/hc/accessory",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "8LzqNcfhN+II2h//wkfSqsGsQGM=",
+			"path": "github.com/brutella/hc/characteristic",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "nW0Bomk+h5B61qM0pReg9V8OG0E=",
+			"path": "github.com/brutella/hc/crypto",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "3eQMIWTySIjy+EH3v3P/KBF764A=",
+			"path": "github.com/brutella/hc/crypto/chacha20poly1305",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "22glqCqTT9qwgMpoSNxdN8dzbh0=",
+			"path": "github.com/brutella/hc/crypto/curve25519",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "d/OIdSxoyuWxYIdLV7v5rL4cUHM=",
+			"path": "github.com/brutella/hc/crypto/hkdf",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "R4hJ1TQqy62D7lYL/BW9ICXMV88=",
+			"path": "github.com/brutella/hc/db",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "RT+NyDP4na0v7wZxKmQ61YYB29E=",
+			"path": "github.com/brutella/hc/event",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "AxhHKh6Arv/1fmyANt4QB/hoS4E=",
+			"path": "github.com/brutella/hc/hap",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "eUc6xR/AG8TJwhTZMTiAJTql5Dg=",
+			"path": "github.com/brutella/hc/hap/controller",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "cRTvWPEwdQ2cPsYcewgtfD0njPs=",
+			"path": "github.com/brutella/hc/hap/data",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "RyzyQ5C8yzLsxd/8naEzN36IYoQ=",
+			"path": "github.com/brutella/hc/hap/endpoint",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "ycNZN9oy+fVCuh+kYG3o7ePc8eU=",
+			"path": "github.com/brutella/hc/hap/http",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "Y7RfDLSWb2xOAnSlHM+kP0pu2Yo=",
+			"path": "github.com/brutella/hc/hap/pair",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "9aYDgLbTTeFrzNIqcZwesOORoos=",
+			"path": "github.com/brutella/hc/log",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "z8M9q9S+VLaan6XFTGrCYqHl+vI=",
+			"path": "github.com/brutella/hc/service",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "bil1jOFusrhe6WpKQOxbg8ENZxM=",
+			"path": "github.com/brutella/hc/util",
+			"revision": "124ca1fc039b9289995ebb39b2bd745350694df0",
+			"revisionTime": "2016-12-14T09:22:34Z"
+		},
+		{
+			"checksumSHA1": "HmbftipkadrLlCfzzVQ+iFHbl6g=",
+			"path": "github.com/golang/glog",
+			"revision": "23def4e6c14b4da8ac2ed8007337bc5eb5007998",
+			"revisionTime": "2016-01-25T20:49:56Z"
+		},
+		{
+			"checksumSHA1": "MFb5D6fGctGxRoeYakh0Eo2BF+I=",
+			"path": "github.com/gosexy/to",
+			"revision": "c20e083e31230b84ffa23c5d2fb0bc55f5292681",
+			"revisionTime": "2014-12-21T20:36:44Z"
+		},
+		{
+			"checksumSHA1": "8e91+1UKuR2wmFGkzwEPCf+nUYY=",
+			"path": "github.com/kidoman/embd",
+			"revision": "adc3d473054c5f066be48c9459107f70021c34a4",
+			"revisionTime": "2016-09-25T18:48:02Z"
+		},
+		{
+			"checksumSHA1": "DgK0M6RDwMYB/ZwyjdUpYuurmZk=",
+			"path": "github.com/kidoman/embd/host/generic",
+			"revision": "adc3d473054c5f066be48c9459107f70021c34a4",
+			"revisionTime": "2016-09-25T18:48:02Z"
+		},
+		{
+			"checksumSHA1": "kc8LfZL+cqLUxUpY+lxAJgxIWZg=",
+			"path": "github.com/kidoman/embd/host/rpi",
+			"revision": "adc3d473054c5f066be48c9459107f70021c34a4",
+			"revisionTime": "2016-09-25T18:48:02Z"
+		},
+		{
+			"checksumSHA1": "SbFX25FpQ+Zq0Zrq/A0bcbW4Z5c=",
+			"path": "github.com/miekg/dns",
+			"revision": "ca336a1f95a6b89be9c250df26c7a41742eb4a6f",
+			"revisionTime": "2017-01-04T07:55:54Z"
+		},
+		{
+			"checksumSHA1": "/+1ZjVK5WwaInJk9vn1KEWdVjoM=",
+			"path": "github.com/oleksandr/bonjour",
+			"revision": "5dcf00d8b228be86307f952f550f2191d956b9e2",
+			"revisionTime": "2016-05-08T15:23:59Z"
+		},
+		{
+			"checksumSHA1": "khrwl6JCJLYNjXnSDgvIOGlYM8g=",
+			"path": "github.com/tadglines/go-pkgs/crypto/srp",
+			"revision": "1f86682992f1a784aa7592b2be0ae80f194b2479",
+			"revisionTime": "2014-09-24T21:06:55Z"
+		},
+		{
+			"checksumSHA1": "dwOedwBJ1EIK9+S3t108Bx054Y8=",
+			"path": "golang.org/x/crypto/curve25519",
+			"revision": "41d678d1df78cd0410143162dff954e6dc09300f",
+			"revisionTime": "2017-01-16T12:25:54Z"
+		},
+		{
+			"checksumSHA1": "4D8hxMIaSDEW5pCQk22Xj4DcDh4=",
+			"path": "golang.org/x/crypto/hkdf",
+			"revision": "41d678d1df78cd0410143162dff954e6dc09300f",
+			"revisionTime": "2017-01-16T12:25:54Z"
+		},
+		{
+			"checksumSHA1": "9Pcc1IiRqPxEcxU2KMpkrcEGb3k=",
+			"path": "golang.org/x/net/bpf",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "ph4zMZHCWvSjVOZwoxbks+nG0/M=",
+			"path": "golang.org/x/net/internal/iana",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "LVY0kRV5iwxDS3XQaBWxdzPemyc=",
+			"path": "golang.org/x/net/internal/netreflect",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "825oQJv9jmZu0T9YSXnDHtmeNUY=",
+			"path": "golang.org/x/net/ipv4",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "O58psCWTm25Kf+VCFLoamNACZ8Q=",
+			"path": "golang.org/x/net/ipv6",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		}
+	],
+	"rootPath": "github.com/thomersch/hc-gpio"
+}

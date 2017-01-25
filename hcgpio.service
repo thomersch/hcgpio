@@ -1,0 +1,18 @@
+[Unit]
+Description=HCGPIO, a tool for controlling GPIO pins over HomeKit
+After=syslog.target network.target network-online.target
+
+[Service]
+Type=simple
+User=root
+Group=root
+WorkingDirectory=/home/pi
+ExecStart=/home/pi/hc-gpio
+RestartSec=1
+Restart=on-failure
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=hcgpio
+
+[Install]
+WantedBy=multi-user.target
