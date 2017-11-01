@@ -2,8 +2,6 @@
 
 Control a GPIO pin (e.g. on a Raspberry Pi) over Apple HomeKit. This can be used for example for turning lights on and off.
 
-**Important notice:** Unfortunately the hc dependency is under a weird non-opensource license, which is unfortunate, because I can't put this under an BSD/MIT license which I would love to.
-
 ## Requirements
 
 * Go ≥ 1.7
